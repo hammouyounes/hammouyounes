@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Younes Hammou! 
+# 🚀 Hi, I'm Younes Hammou
 
 ### 👨‍💻 Full Stack Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-hammou-171742309/)
@@ -38,7 +38,7 @@ Designed a platform for the digitalization of civil status documents, improving 
 
 ### 📦 **Delivery Management App - Palace Agency**
 Developed a delivery tracking system using **Laravel** and **MySQL**, focusing on a responsive and ergonomic user interface.
-
+<!--
 ---
 
 ## 📈 GitHub Stats
@@ -46,7 +46,7 @@ Developed a delivery tracking system using **Laravel** and **MySQL**, focusing o
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
-
+-->
 ## 📫 How to reach me:
 - 📧 Email: [youness.hammou4@gmail.com](mailto:youness.hammou4@gmail.com)
 - 📍 Location: Ouled Berhil, Taroudant, Morocco
