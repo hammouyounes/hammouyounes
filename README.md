@@ -41,8 +41,8 @@ Developed a delivery tracking system using **Laravel** and **MySQL**, focusing o
 
 
 ## 📈 GitHub Stats
-![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammouyounes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammouyounes&layout=compact&theme=tokyonight)
+![Younes's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hammouyounes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hammouyounes&layout=compact&theme=tokyonight)
 
 ## 📫 How to reach me:
 - 📧 Email: [youness.hammou4@gmail.com](mailto:youness.hammou4@gmail.com)
