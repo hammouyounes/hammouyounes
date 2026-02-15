@@ -38,15 +38,12 @@ Designed a platform for the digitalization of civil status documents, improving 
 
 ### 📦 **Delivery Management App - Palace Agency**
 Developed a delivery tracking system using **Laravel** and **MySQL**, focusing on a responsive and ergonomic user interface.
-<!--
----
+
 
 ## 📈 GitHub Stats
-![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammouyounes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammouyounes&layout=compact&theme=tokyonight)
 
----
--->
 ## 📫 How to reach me:
 - 📧 Email: [youness.hammou4@gmail.com](mailto:youness.hammou4@gmail.com)
 - 📍 Location: Ouled Berhil, Taroudant, Morocco
